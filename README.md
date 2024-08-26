@@ -1,3 +1,10 @@
+# I changed to code to feature the Knight Rider thing that walks the light back and forth.
+I also added brake lights and I polished the code a bit here and there. 
+All credit go to the OP, much easier to change then to start.
+Have fun, maybe contribute and check out my site for the hardware LencoSolutions.nl
+
+
+
 # Balance Buddy
 Arduino based accessory board for the balance app in BV's BLDC firmware.
 
