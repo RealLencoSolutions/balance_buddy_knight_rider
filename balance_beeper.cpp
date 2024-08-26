@@ -5,8 +5,8 @@
 #define PLAY_STARTUP true
 #define DUTY_CYCLE_ALERT 0.80 // 0 to disable
 #define SWITCH_ERPM 1000 // 0 to disable
-#define LOW_VOLTAGE 40.0 // 0 to disable
-#define LOW_VOLTAGE_INTERVAL 30 * 1000 // every 30 seconds
+#define LOW_VOLTAGE 51.3 // 0 to disable
+#define LOW_VOLTAGE_INTERVAL 5 * 1000 // every 30 seconds
 
 class BalanceBeeper {
   private:
